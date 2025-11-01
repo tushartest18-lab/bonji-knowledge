@@ -90,6 +90,89 @@
       "deliveryTime": "2-3 days across India"
     },
     {
+      "id": "prod_017",
+      "name": "Advanced Scalp Clarifying Shampoo",
+      "category": "Hair Care",
+      "subcategory": "Shampoo",
+      "price": "₹719.00",
+      "originalPrice": "₹899.00",
+      "size": "200 ml",
+      "url": "https://bonji.in/products/advanced-scalp-clarifying-shampoo",
+      "images": ["https://bonji.in/images/advanced-scalp-clarifying-shampoo.jpg"],
+      "isBestSeller": false,
+      "isNew": true,
+      "badge": "NEW ARRIVAL",
+      
+      "shortDescription": "A detoxifying shampoo that combines Activated Charcoal and Green Tea Extract to deeply cleanse, rebalance, and refresh the scalp.",
+      
+      "detailedDescription": "This detoxifying shampoo combines Activated Charcoal and Green Tea Extract to deeply cleanse, rebalance, and refresh the scalp. Its silky black gel texture creates a mild lather that removes buildup without over-drying, leaving the scalp clean, balanced, and ready for healthy hair growth. Feels like a silky black gel with a mild lather that leaves your scalp feeling clear & balanced.",
+      
+      "keyBenefits": [
+        "Cleanses oily scalp & excess buildup",
+        "Helps with dandruff & flakes",
+        "Soothes itchiness & irritation",
+        "Removes hard water & pollution residue",
+        "Revives dull, weighed-down strands"
+      ],
+      
+      "keyIngredients": [
+        {
+          "name": "Activated (Bamboo) Charcoal Powder",
+          "benefit": "Deeply cleanses and detoxifies scalp"
+        },
+        {
+          "name": "Camellia Sinensis (Green Tea) Leaf Extract",
+          "benefit": "Antioxidant, rebalances scalp"
+        },
+        {
+          "name": "Apple Cider Vinegar",
+          "benefit": "Clarifies and removes residue"
+        },
+        {
+          "name": "Hydrolyzed Keratin",
+          "benefit": "Strengthens and repairs hair"
+        },
+        {
+          "name": "Argania Spinosa (Argan) Kernel Oil",
+          "benefit": "Nourishes without weighing hair down"
+        },
+        {
+          "name": "Panthenol",
+          "benefit": "Hydrates and adds shine"
+        }
+      ],
+      
+      "howToUse": [
+        "Wet hair and scalp thoroughly.",
+        "Apply an adequate amount of shampoo and massage gently into a mild lather.",
+        "Leave on for 1-2 minutes to allow the actives to work.",
+        "Rinse completely.",
+        "Follow with a conditioner if needed, focusing on lengths and ends."
+      ],
+      
+      "idealFor": [
+        "Oily scalp & excess buildup",
+        "Dandruff & flakes",
+        "Itchiness & irritation",
+        "Hard water & pollution residue",
+        "Dull, weighed-down strands"
+      ],
+      
+      "customerReviews": {
+        "averageRating": 4.33,
+        "totalReviews": 3,
+        "featuredReview": "Excellent for cleaning product build-up . Foaming can be a bit better though.",
+        "commonPraise": [
+          "Makes my scalp very clean",
+          "Also helps with frizz",
+          "Amazing"
+        ]
+      },
+      
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
       "id": "prod_011",
       "name": "Scalp Soothing Hair Oil (50 ml)",
       "category": "Hair Care",
@@ -473,4 +556,7 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India
+      "deliveryTime": "2-3 days across India"
+    }
+  ]
+}
