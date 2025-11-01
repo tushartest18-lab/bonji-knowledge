@@ -1,0 +1,476 @@
+{
+  "brandInfo": {
+    "name": "Bonji",
+    "fullName": "Bonji Naturals Pvt. Ltd.",
+    "tagline": "Anti-Pollution Skin & Hair Care Products Backed by Science",
+    "alternateTagline": "Handle Pollution Smartly",
+    "website": "https://bonji.in",
+    "founded": "2024",
+    "location": "Delhi, India",
+    "founders": ["Ruchi Singh", "Vipul Bajaj", "Mehak Kapoor", "Tushar Bansal"],
+    "brandMission": "Create science-backed skincare and haircare products designed to address the root causes of issues like pollution, hard water, UV exposure, and stress—common in urban Indian lifestyles",
+    "brandValues": [
+      "Science-backed formulations",
+      "Natural and safe ingredients",
+      "Solutions for Indian urban lifestyle challenges",
+      "Environmentally conscious",
+      "Cruelty-free"
+    ],
+    "socialProof": "Trusted by urban Indians dealing with pollution and hard water issues"
+  },
+  "products": [
+    {
+      "id": "prod_010",
+      "name": "Milk Thistle & Vitamin B-12 Face Serum",
+      "category": "Skincare",
+      "subcategory": "Face Serum",
+      "price": "₹559.00",
+      "originalPrice": "₹699.00",
+      "size": "30 ml",
+      "url": "https://bonji.in/products/milk-thistle-vitamin-b-12-face-serum",
+      "images": ["https://bonji.in/images/milk-thistle-vitamin-b-12-face-serum.jpg"],
+      "isBestSeller": false,
+      "isNew": true,
+      "badge": "NEW ARRIVAL",
+      "shortDescription": "A fast-absorbing antioxidant serum with Milk Thistle and Vitamin B12 that calms inflammation, hydrates deeply, and repairs the skin barrier.",
+      "detailedDescription": "Perfect for sensitive, pollution-stressed skin dealing with redness, dullness, uneven tone, or early signs of aging. Feels like a lightweight, milky-serum that is non-sticky and quick-absorbing.",
+      "keyBenefits": [
+        "Calms inflammation and redness",
+        "Hydrates deeply and repairs skin barrier",
+        "Reduces dullness and uneven skin tone",
+        "Helps with fine lines and early aging signs"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Milk Thistle Extract (Silybum Marianum)",
+          "benefit": "Antioxidant, calms inflammation"
+        },
+        {
+          "name": "Vitamin B12",
+          "benefit": "Repairs skin barrier, calms redness"
+        },
+        {
+          "name": "Niacinamide",
+          "benefit": "Evens skin tone, strengthens barrier"
+        },
+        {
+          "name": "Centella Asiatica Extract",
+          "benefit": "Soothes and repairs skin"
+        },
+        {
+          "name": "Sodium Hyaluronate",
+          "benefit": "Provides deep hydration"
+        }
+      ],
+      "howToUse": [
+        "Apply 2-3 drops to a clean, damp face.",
+        "Pat gently until absorbed.",
+        "Follow with moisturizer.",
+        "Use morning and night for best results."
+      ],
+      "idealFor": [
+        "Uneven skin tone and texture",
+        "Dull & tired looking skin",
+        "Redness and skin irritation",
+        "Dryness and dehydration",
+        "Sensitive, pollution-stressed skin"
+      ],
+      "customerReviews": {
+        "averageRating": 5.0,
+        "totalReviews": 4,
+        "featuredReview": "I absolutelyy loved it, I have tried manyy many serums, but they dry out my face, but this one hydrates it so well i dont use a moisturizer anymore, in a week i saw dark spots fading, it smoothens my skin.",
+        "commonPraise": [
+          "Lightweight, non-greasy",
+          "Dark spots fading",
+          "Skin feels cleaner and brighter",
+          "Reduced dullness from pollution"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_011",
+      "name": "Scalp Soothing Hair Oil (50 ml)",
+      "category": "Hair Care",
+      "subcategory": "Hair Oil",
+      "price": "₹359.00",
+      "originalPrice": "₹449.00",
+      "size": "50 ml",
+      "url": "https://bonji.in/products/scalp-soothing-hair-oil",
+      "images": ["https://bonji.in/images/scalp-soothing-hair-oil.jpg"],
+      "isBestSeller": false,
+      "isNew": false,
+      "shortDescription": "A scalp-soothing hair oil that combines the anti-dandruff power of Tea Tree Oil with the cooling relief of Peppermint Oil to reduce itching, dryness, and flakiness.",
+      "detailedDescription": "Its lightweight, non-greasy formula absorbs quickly, leaving the scalp refreshed, soothed, and dandruff-free. Works like magic with consistent use.",
+      "keyBenefits": [
+        "Reduces persistent dandruff & flaking",
+        "Soothes itchy, irritated scalp",
+        "Combats dryness from pollution or hard water",
+        "Helps with oily scalp microbial imbalance"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Tea Tree Leaf Oil",
+          "benefit": "Anti-dandruff and anti-fungal"
+        },
+        {
+          "name": "Peppermint Oil",
+          "benefit": "Provides cooling relief, reduces itching"
+        },
+        {
+          "name": "Rosemary Leaf Oil",
+          "benefit": "Improves scalp circulation"
+        },
+        {
+          "name": "Kalonji (Nigella Sativa) Seed Oil",
+          "benefit": "Nourishes and strengthens"
+        },
+        {
+          "name": "Neem (Melia Azadirachta) Seed Oil",
+          "benefit": "Antibacterial and soothing"
+        }
+      ],
+      "howToUse": [
+        "Apply directly to the scalp.",
+        "Massage gently for 5-10 minutes.",
+        "Leave on for at least 2 hours or overnight.",
+        "Wash with a mild shampoo.",
+        "Use 2-3 times a week."
+      ],
+      "idealFor": [
+        "Persistent dandruff & flaking",
+        "Itchy, irritated scalp",
+        "Dry scalp from hard water",
+        "Oily scalp with dandruff"
+      ],
+      "customerReviews": {
+        "averageRating": 4.69,
+        "totalReviews": 13,
+        "featuredReview": "Amazing product have been using for around a month now and my hair feels less itchy and dandruff also reduced.",
+        "commonPraise": [
+          "Worked like magic for me",
+          "Great product for dandruff",
+          "Works like wonder"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_012",
+      "name": "Scalp Soothing Hair Oil (100 ml)",
+      "category": "Hair Care",
+      "subcategory": "Hair Oil",
+      "price": "₹599.00",
+      "originalPrice": null,
+      "size": "100 ml",
+      "url": "https://bonji.in/products/scalp-soothing-hair-oil",
+      "images": ["https://bonji.in/images/scalp-soothing-hair-oil-100ml.jpg"],
+      "isBestSeller": false,
+      "isNew": false,
+      "shortDescription": "A scalp-soothing hair oil that combines the anti-dandruff power of Tea Tree Oil with the cooling relief of Peppermint Oil to reduce itching, dryness, and flakiness.",
+      "detailedDescription": "Its lightweight, non-greasy formula absorbs quickly, leaving the scalp refreshed, soothed, and dandruff-free. Works like magic with consistent use. 100ml value size.",
+      "keyBenefits": [
+        "Reduces persistent dandruff & flaking",
+        "Soothes itchy, irritated scalp",
+        "Combats dryness from pollution or hard water",
+        "Helps with oily scalp microbial imbalance"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Tea Tree Leaf Oil",
+          "benefit": "Anti-dandruff and anti-fungal"
+        },
+        {
+          "name": "Peppermint Oil",
+          "benefit": "Provides cooling relief, reduces itching"
+        },
+        {
+          "name": "Rosemary Leaf Oil",
+          "benefit": "Improves scalp circulation"
+        },
+        {
+          "name": "Kalonji (Nigella Sativa) Seed Oil",
+          "benefit": "Nourishes and strengthens"
+        },
+        {
+          "name": "Neem (Melia Azadirachta) Seed Oil",
+          "benefit": "Antibacterial and soothing"
+        }
+      ],
+      "howToUse": [
+        "Apply directly to the scalp.",
+        "Massage gently for 5-10 minutes.",
+        "Leave on for at least 2 hours or overnight.",
+        "Wash with a mild shampoo.",
+        "Use 2-3 times a week."
+      ],
+      "idealFor": [
+        "Persistent dandruff & flaking",
+        "Itchy, irritated scalp",
+        "Dry scalp from hard water",
+        "Oily scalp with dandruff"
+      ],
+      "customerReviews": {
+        "averageRating": 4.69,
+        "totalReviews": 13,
+        "featuredReview": "Amazing product have been using for around a month now and my hair feels less itchy and dandruff also reduced.",
+        "commonPraise": [
+          "Worked like magic for me",
+          "Great product for dandruff",
+          "Works like wonder"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_013",
+      "name": "Scalp Nourishing Hair Oil (50 ml)",
+      "category": "Hair Care",
+      "subcategory": "Hair Oil",
+      "price": "₹359.00",
+      "originalPrice": "₹449.00",
+      "size": "50 ml",
+      "url": "https://bonji.in/products/scalp-nourishing-hair-oil",
+      "images": ["https://bonji.in/images/scalp-nourishing-hair-oil.jpg"],
+      "isBestSeller": false,
+      "isNew": false,
+      "shortDescription": "A nourishing hair oil that blends Rosemary and Kalonji Seed Oil to help prevent hair fall, boost regrowth, and repair damage from pollution and hard water.",
+      "detailedDescription": "Its lightweight, non-greasy texture cushions the scalp while nourishing from root to tip for stronger, healthier hair.",
+      "keyBenefits": [
+        "Helps with hair thinning & hair fall",
+        "Repairs hard water damage",
+        "Repairs pollution damage",
+        "Nourishes dry scalp and strands"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Rosemary Oil",
+          "benefit": "Prevents hair fall, boosts regrowth"
+        },
+        {
+          "name": "Kalonji (Nigella Sativa) Seed Oil",
+          "benefit": "Nourishes scalp, repairs damage"
+        }
+      ],
+      "howToUse": [
+        "Apply directly to the scalp and hair strands.",
+        "Massage gently for 5-10 minutes.",
+        "Leave on for at least 2 hours or overnight for deep nourishment.",
+        "Wash with a mild shampoo.",
+        "Use 2-3 times a week."
+      ],
+      "idealFor": [
+        "Hair Thinning & Hair Fall",
+        "Hard Water Damage",
+        "Pollution Damage",
+        "Dry Scalp + Strands"
+      ],
+      "customerReviews": {
+        "averageRating": 0,
+        "totalReviews": 3,
+        "featuredReview": "It really lives up to its name, my scalp feels nourished and my hair fall reduced in just 2 weeks!",
+        "commonPraise": [
+          "Pleasant smell, not very sticky",
+          "My go-to oil now"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_014",
+      "name": "Scalp Nourishing Hair Oil (100 ml)",
+      "category": "Hair Care",
+      "subcategory": "Hair Oil",
+      "price": "₹599.00",
+      "originalPrice": null,
+      "size": "100 ml",
+      "url": "https://bonji.in/products/scalp-nourishing-hair-oil",
+      "images": ["https://bonji.in/images/scalp-nourishing-hair-oil-100ml.jpg"],
+      "isBestSeller": false,
+      "isNew": false,
+      "shortDescription": "A nourishing hair oil that blends Rosemary and Kalonji Seed Oil to help prevent hair fall, boost regrowth, and repair damage from pollution and hard water.",
+      "detailedDescription": "Its lightweight, non-greasy texture cushions the scalp while nourishing from root to tip for stronger, healthier hair. 100ml value size.",
+      "keyBenefits": [
+        "Helps with hair thinning & hair fall",
+        "Repairs hard water damage",
+        "Repairs pollution damage",
+        "Nourishes dry scalp and strands"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Rosemary Oil",
+          "benefit": "Prevents hair fall, boosts regrowth"
+        },
+        {
+          "name": "Kalonji (Nigella Sativa) Seed Oil",
+          "benefit": "Nourishes scalp, repairs damage"
+        }
+      ],
+      "howToUse": [
+        "Apply directly to the scalp and hair strands.",
+        "Massage gently for 5-10 minutes.",
+        "Leave on for at least 2 hours or overnight for deep nourishment.",
+        "Wash with a mild shampoo.",
+        "Use 2-3 times a week."
+      ],
+      "idealFor": [
+        "Hair Thinning & Hair Fall",
+        "Hard Water Damage",
+        "Pollution Damage",
+        "Dry Scalp + Strands"
+      ],
+      "customerReviews": {
+        "averageRating": 0,
+        "totalReviews": 3,
+        "featuredReview": "It really lives up to its name, my scalp feels nourished and my hair fall reduced in just 2 weeks!",
+        "commonPraise": [
+          "Pleasant smell, not very sticky",
+          "My go-to oil now"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_015",
+      "name": "Deep Cleanse Centella Moroccan Red Clay Mask",
+      "category": "Skincare",
+      "subcategory": "Face Mask",
+      "price": "₹599.00",
+      "originalPrice": "₹749.00",
+      "size": "50g",
+      "url": "https://bonji.in/products/deep-cleanse-centella-moroccan-red-clay-mask",
+      "images": ["https://bonji.in/images/deep-cleanse-centella-moroccan-red-clay-mask.jpg"],
+      "isBestSeller": false,
+      "isNew": true,
+      "badge": "NEW ARRIVAL",
+      "shortDescription": "A deep cleanse mask that purifies, soothes, and restores skin clarity with Moroccan Red Clay, Centella Asiatica, Allantoin, and Niacinamide.",
+      "detailedDescription": "Its smooth, creamy texture spreads easily without over-drying, helping remove tan, calm irritation, and brighten the skin.",
+      "keyBenefits": [
+        "Deeply cleanses clogged pores and blackheads",
+        "Helps remove tan and brightens skin",
+        "Calms irritation and soothes skin",
+        "Improves uneven skin texture",
+        "Good for pollution-affected skin"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Moroccan Lava Clay (Red Clay)",
+          "benefit": "Purifies and detoxifies pores"
+        },
+        {
+          "name": "Centella Asiatica Extract",
+          "benefit": "Soothes and calms irritated skin"
+        },
+        {
+          "name": "Niacinamide",
+          "benefit": "Brightens skin and refines texture"
+        },
+        {
+          "name": "Allantoin",
+          "benefit": "Soothes and protects the skin"
+        },
+        {
+          "name": "Camellia Sinensis (Green Tea) Leaf Extract",
+          "benefit": "Antioxidant, calms skin"
+        }
+      ],
+      "howToUse": [
+        "Apply an even layer to clean, dry skin.",
+        "Avoid the eye and lip area.",
+        "Leave on for 10-15 minutes.",
+        "Rinse thoroughly with lukewarm water.",
+        "Use 1-2 times per week."
+      ],
+      "idealFor": [
+        "Clogged pores and blackheads",
+        "Oily or acne-prone skin",
+        "Uneven skin texture",
+        "Dull, fatigued skin",
+        "Pollution-affected and product-stressed skin"
+      ],
+      "customerReviews": {
+        "averageRating": 0,
+        "totalReviews": 0,
+        "featuredReview": "",
+        "commonPraise": []
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India"
+    },
+    {
+      "id": "prod_016",
+      "name": "Collagen + Neroli Hydrating Toner",
+      "category": "Skincare",
+      "subcategory": "Face Toner",
+      "price": "₹639.00",
+      "originalPrice": "₹799.00",
+      "size": "100 ml",
+      "url": "https://bonji.in/products/collagen-neroli-hydrating-toner",
+      "images": ["https://bonji.in/images/collagen-neroli-hydrating-toner.jpg"],
+      "isBestSeller": false,
+      "isNew": true,
+      "badge": "NEW ARRIVAL",
+      "shortDescription": "A hydrating toner with Collagen, Neroli, Vitamin B-12, and Allantoin that purifies pores, tightens skin, and restores balance.",
+      "detailedDescription": "This lightweight watery mist instantly refreshes while defending against pollution and preparing the skin for better serum absorption.",
+      "keyBenefits": [
+        "Minimizes enlarged pores and evens texture",
+        "Restores post-cleansing pH balance",
+        "Hydrates dehydrated or dull skin",
+        "Calms sensitive and redness-prone skin",
+        "Defends against pollution and blue light"
+      ],
+      "keyIngredients": [
+        {
+          "name": "Collagen",
+          "benefit": "Tightens skin and purifies pores"
+        },
+        {
+          "name": "Neroli (Citrus Aurantium Amara) Flower Water",
+          "benefit": "Hydrates and balances"
+        },
+        {
+          "name": "Vitamin B-12",
+          "benefit": "Calms and restores skin"
+        },
+        {
+          "name": "Allantoin",
+          "benefit": "Soothes and hydrates"
+        },
+        {
+          "name": "Cucumber (Cucumis Sativus) Fruit Extract",
+          "benefit": "Cools and refreshes"
+        },
+        {
+          "name": "Sodium Hyaluronate",
+          "benefit": "Provides deep hydration"
+        }
+      ],
+      "howToUse": [
+        "After cleansing, spray directly onto face or on a cotton pad.",
+        "Pat gently until absorbed.",
+        "Can also be used as a mist throughout the day.",
+        "Follow with serum and moisturizer."
+      ],
+      "idealFor": [
+        "Enlarged pores and uneven texture",
+        "Dehydrated or dull skin",
+        "Sensitive and redness-prone skin",
+        "Pollution and blue light exposed skin"
+      ],
+      "customerReviews": {
+        "averageRating": 5.0,
+        "totalReviews": 4,
+        "featuredReview": "This toner feels like a burst of hydration! My skin instantly feels cool, calm, and soft, love using it right after a long day.",
+        "commonPraise": [
+          "My skin texture improved so much",
+          "Pores look visibly smaller within a week",
+          "Clean, non-sticky feel"
+        ]
+      },
+      "inStock": true,
+      "deliveryTime": "2-3 days across India
