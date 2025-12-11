@@ -7,7 +7,12 @@
     "website": "https://bonji.in",
     "founded": "2024",
     "location": "Delhi, India",
-    "founders": ["Ruchi Singh", "Vipul Bajaj", "Mehak Kapoor", "Tushar Bansal"],
+    "founders": [
+      "Ruchi Singh",
+      "Vipul Bajaj",
+      "Mehak Kapoor",
+      "Tushar Bansal"
+    ],
     "brandMission": "Create science-backed skincare and haircare products designed to address the root causes of issues like pollution, hard water, UV exposure, and stress—common in urban Indian lifestyles",
     "brandValues": [
       "Science-backed formulations",
@@ -18,6 +23,14 @@
     ],
     "socialProof": "Trusted by urban Indians dealing with pollution and hard water issues"
   },
+  "internalPriorityOrder": [
+    "prod_011",
+    "prod_010",
+    "prod_013",
+    "prod_016",
+    "prod_017",
+    "prod_015"
+  ],
   "products": [
     {
       "id": "prod_010",
@@ -27,7 +40,9 @@
       "price": "₹699.00",
       "size": "30 ml",
       "url": "https://bonji.in/products/milk-thistle-vitamin-b-12-face-serum",
-      "images": ["https://bonji.in/images/milk-thistle-vitamin-b-12-face-serum.jpg"],
+      "images": [
+        "https://bonji.in/images/milk-thistle-vitamin-b-12-face-serum.jpg"
+      ],
       "isBestSeller": false,
       "isNew": true,
       "badge": "NEW ARRIVAL",
@@ -86,7 +101,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 2,
+      "internalPushNotes": "High-margin skincare; suggest as first item for general skin concerns and to increase AOV when user asks for a routine."
     },
     {
       "id": "prod_017",
@@ -96,15 +113,14 @@
       "price": "₹899.00",
       "size": "200 ml",
       "url": "https://bonji.in/products/advanced-scalp-clarifying-shampoo",
-      "images": ["https://bonji.in/images/advanced-scalp-clarifying-shampoo.jpg"],
+      "images": [
+        "https://bonji.in/images/advanced-scalp-clarifying-shampoo.jpg"
+      ],
       "isBestSeller": false,
       "isNew": true,
       "badge": "NEW ARRIVAL",
-      
       "shortDescription": "A detoxifying shampoo that combines Activated Charcoal and Green Tea Extract to deeply cleanse, rebalance, and refresh the scalp.",
-      
       "detailedDescription": "This detoxifying shampoo combines Activated Charcoal and Green Tea Extract to deeply cleanse, rebalance, and refresh the scalp. Its silky black gel texture creates a mild lather that removes buildup without over-drying, leaving the scalp clean, balanced, and ready for healthy hair growth. Feels like a silky black gel with a mild lather that leaves your scalp feeling clear & balanced.",
-      
       "keyBenefits": [
         "Cleanses oily scalp & excess buildup",
         "Helps with dandruff & flakes",
@@ -112,7 +128,6 @@
         "Removes hard water & pollution residue",
         "Revives dull, weighed-down strands"
       ],
-      
       "keyIngredients": [
         {
           "name": "Activated (Bamboo) Charcoal Powder",
@@ -139,7 +154,6 @@
           "benefit": "Hydrates and adds shine"
         }
       ],
-      
       "howToUse": [
         "Wet hair and scalp thoroughly.",
         "Apply an adequate amount of shampoo and massage gently into a mild lather.",
@@ -147,7 +161,6 @@
         "Rinse completely.",
         "Follow with a conditioner if needed, focusing on lengths and ends."
       ],
-      
       "idealFor": [
         "Oily scalp & excess buildup",
         "Dandruff & flakes",
@@ -155,7 +168,6 @@
         "Hard water & pollution residue",
         "Dull, weighed-down strands"
       ],
-      
       "customerReviews": {
         "averageRating": 4.33,
         "totalReviews": 3,
@@ -166,9 +178,10 @@
           "Amazing"
         ]
       },
-      
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 5,
+      "internalPushNotes": "Recommend primarily as a paired item with oils for scalp issues to protect conversion and increase AOV."
     },
     {
       "id": "prod_011",
@@ -178,7 +191,9 @@
       "price": "₹449.00",
       "size": "50 ml",
       "url": "https://bonji.in/products/scalp-soothing-hair-oil",
-      "images": ["https://bonji.in/images/scalp-soothing-hair-oil.jpg"],
+      "images": [
+        "https://bonji.in/images/scalp-soothing-hair-oil.jpg"
+      ],
       "isBestSeller": false,
       "isNew": false,
       "shortDescription": "A scalp-soothing hair oil that combines the anti-dandruff power of Tea Tree Oil with the cooling relief of Peppermint Oil to reduce itching, dryness, and flakiness.",
@@ -235,7 +250,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 1,
+      "internalPushNotes": "Hero product. Always recommend first for dandruff/itching. Promote bundles (50 ml + shampoo or upsell to 100 ml)."
     },
     {
       "id": "prod_012",
@@ -245,7 +262,9 @@
       "price": "₹749.00",
       "size": "100 ml",
       "url": "https://bonji.in/products/scalp-soothing-hair-oil?variant=45011755991171",
-      "images": ["https://bonji.in/images/scalp-soothing-hair-oil-100ml.jpg"],
+      "images": [
+        "https://bonji.in/images/scalp-soothing-hair-oil-100ml.jpg"
+      ],
       "isBestSeller": false,
       "isNew": false,
       "shortDescription": "A scalp-soothing hair oil that combines the anti-dandruff power of Tea Tree Oil with the cooling relief of Peppermint Oil to reduce itching, dryness, and flakiness.",
@@ -302,7 +321,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 1,
+      "internalPushNotes": "Upsell target for 'severe' or 'long-term' requests. Recommend when user indicates budget allows or severe condition."
     },
     {
       "id": "prod_013",
@@ -312,7 +333,9 @@
       "price": "₹449.00",
       "size": "50 ml",
       "url": "https://bonji.in/products/scalp-nourishing-hair-oil",
-      "images": ["https://bonji.in/images/scalp-nourishing-hair-oil.jpg"],
+      "images": [
+        "https://bonji.in/images/scalp-nourishing-hair-oil.jpg"
+      ],
       "isBestSeller": false,
       "isNew": false,
       "shortDescription": "A nourishing hair oil that blends Rosemary and Kalonji Seed Oil to help prevent hair fall, boost regrowth, and repair damage from pollution and hard water.",
@@ -356,7 +379,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 3,
+      "internalPushNotes": "Primary for hair fall/thinning. Pair with soothing oil for combined strategy to boost conversion."
     },
     {
       "id": "prod_014",
@@ -366,7 +391,9 @@
       "price": "₹749.00",
       "size": "100 ml",
       "url": "https://bonji.in/products/scalp-nourishing-hair-oil?variant=45011752452227",
-      "images": ["https://bonji.in/images/scalp-nourishing-hair-oil-100ml.jpg"],
+      "images": [
+        "https://bonji.in/images/scalp-nourishing-hair-oil-100ml.jpg"
+      ],
       "isBestSeller": false,
       "isNew": false,
       "shortDescription": "A nourishing hair oil that blends Rosemary and Kalonji Seed Oil to help prevent hair fall, boost regrowth, and repair damage from pollution and hard water.",
@@ -410,7 +437,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 3,
+      "internalPushNotes": "Upsell option for long-term hair fall regimes; recommend when user indicates a longer treatment plan."
     },
     {
       "id": "prod_015",
@@ -420,7 +449,9 @@
       "price": "₹749.00",
       "size": "50g",
       "url": "https://bonji.in/products/deep-cleanse-centella-moroccan-red-clay-mask",
-      "images": ["https://bonji.in/images/deep-cleanse-centella-moroccan-red-clay-mask.jpg"],
+      "images": [
+        "https://bonji.in/images/deep-cleanse-centella-moroccan-red-clay-mask.jpg"
+      ],
       "isBestSeller": false,
       "isNew": true,
       "badge": "NEW ARRIVAL",
@@ -476,7 +507,9 @@
         "commonPraise": []
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 6,
+      "internalPushNotes": "Add-on / upsell; recommend with serum or toner for skin-clearing routines."
     },
     {
       "id": "prod_016",
@@ -486,7 +519,9 @@
       "price": "₹799.00",
       "size": "100 ml",
       "url": "https://bonji.in/products/collagen-neroli-hydrating-toner",
-      "images": ["https://bonji.in/images/collagen-neroli-hydrating-toner.jpg"],
+      "images": [
+        "https://bonji.in/images/collagen-neroli-hydrating-toner.jpg"
+      ],
       "isBestSeller": false,
       "isNew": true,
       "badge": "NEW ARRIVAL",
@@ -548,7 +583,9 @@
         ]
       },
       "inStock": true,
-      "deliveryTime": "2-3 days across India"
+      "deliveryTime": "2-3 days across India",
+      "priorityRank": 4,
+      "internalPushNotes": "Pair with serum to increase Average Order Value (AOV). Recommend together for new routine requests."
     }
   ]
 }
